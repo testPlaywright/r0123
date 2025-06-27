@@ -1,0 +1,8 @@
+apiVersion: v1
+metadata:
+  askId: AIDE_0074782
+  caAgileId: 515548509296ud
+  componentType: code
+  projectFriendlyName: rxc-cat-automation
+  projectKey: com.optum.rxclaim.cat:rxc-cat-automation
+  targetQG: GATE_00
